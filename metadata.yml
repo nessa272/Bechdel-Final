@@ -1,0 +1,16 @@
+---
+:id: 219744682
+:submitters:
+- :name: Isabelle Whetsel (M)
+  :email: iw104@wellesley.edu
+- :name: Nessa Tong (M)
+  :email: nt101@wellesley.edu
+- :name: Dorothy (Dorrie) Peters (M)
+  :email: dp109@wellesley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-12-12 20:39:21.911439000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-12-12 12:39:21.911439000 Z
+:status: processed
+:score: 94.0

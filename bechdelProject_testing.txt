@@ -1,0 +1,69 @@
+Now testing the Actor class
+Testing getName(), should print Takis. Output: Takis
+Testing getGender(), should print male. Output: male
+Testing getLeading(), should print true. Output: true
+Testing compareTo(), should print true. Output: true
+Testing compareTo(), should print false. Output: false
+Now testing the Movie Class
+Should print false: false
+Should print true: true
+Now testing the HollywoodGraph Class
+Now testing Task 2.0 for The Jungle Book.
+[Bill Murray, Ben Kingsley, Idris Elba, Lupita Nyong'o, Scarlett Johansson, Giancarlo Esposito, Christopher Walken, Neel Sethi, Garry Shandling, Brighton Rose, Jon Favreau]
+Now testing Task 2.1 for Jennifer Lawrence.
+[X-Men: Apocalypse, Passengers]
+Now testing Task 2.2 for Tyler Perry and Megan Fox.
+1
+Now testing Task 2.2 for Tyler Perry and Nick Arapoglou.
+3
+Now testing Task 2.3 for our test.
+Now testing Boo! A Madea Halloween . This movie passes the test: false
+Now testing Hidden Figures . This movie passes the test: false
+Now testing Sully . This movie passes the test: false
+Now testing The Girl on the Train . This movie passes the test: false
+Now testing Don't Breathe . This movie passes the test: false
+Now testing 10 Cloverfield Lane . This movie passes the test: false
+Now testing Bad Moms . This movie passes the test: false
+Now testing La La Land . This movie passes the test: false
+Now testing Arrival . This movie passes the test: false
+Now testing Storks . This movie passes the test: false
+Now testing Hacksaw Ridge . This movie passes the test: false
+Now testing Star Trek Beyond . This movie passes the test: false
+Now testing Pete's Dragon . This movie passes the test: false
+Now testing Sing . This movie passes the test: false
+Now testing The Purge: Election Year . This movie passes the test: false
+Now testing The Boss . This movie passes the test: false
+Now testing The Magnificent Seven . This movie passes the test: false
+Now testing Zootopia . This movie passes the test: false
+Now testing Doctor Strange . This movie passes the test: false
+Now testing The Accountant . This movie passes the test: false
+Now testing Suicide Squad . This movie passes the test: false
+Now testing Now You See Me 2 . This movie passes the test: false
+Now testing Teenage Mutant Ninja Turtles: Out of the Shadows . This movie passes the test: false
+Now testing Lights Out . This movie passes the test: false
+Now testing Rogue One: A Star Wars Story . This movie passes the test: false
+Now testing Fantastic Beasts and Where to Find Them . This movie passes the test: false
+Now testing Sausage Party . This movie passes the test: false
+Now testing Ride Along 2 . This movie passes the test: false
+Now testing The Conjuring 2: The Enfield Poltergeist . This movie passes the test: false
+Now testing The Legend of Tarzan . This movie passes the test: false
+Now testing Captain America: Civil War . This movie passes the test: false
+Now testing The Divergent Series: Allegiant . This movie passes the test: false
+Now testing Ice Age: Collision Course . This movie passes the test: false
+Now testing Jason Bourne . This movie passes the test: false
+Now testing X-Men: Apocalypse . This movie passes the test: false
+Now testing Alice Through the Looking Glass . This movie passes the test: false
+Now testing The Jungle Book . This movie passes the test: false
+Now testing Batman v Superman: Dawn of Justice . This movie passes the test: false
+Now testing Moana . This movie passes the test: false
+Now testing Miss Peregrine's Home for Peculiar Children . This movie passes the test: false
+Now testing Independence Day: Resurgence . This movie passes the test: false
+Now testing The Angry Birds Movie . This movie passes the test: false
+Now testing The Secret Life of Pets . This movie passes the test: false
+Now testing Finding Dory . This movie passes the test: false
+Now testing Kung Fu Panda 3 . This movie passes the test: false
+Now testing Trolls . This movie passes the test: false
+Now testing Passengers . This movie passes the test: false
+Now testing Ghostbusters . This movie passes the test: false
+Now testing Deadpool . This movie passes the test: false
+In this graph, 0 movie(s) passed our test
